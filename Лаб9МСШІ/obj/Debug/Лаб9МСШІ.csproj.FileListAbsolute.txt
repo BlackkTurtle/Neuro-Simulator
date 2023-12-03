@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\bin\Debug\Лаб9МСШІ.exe.config
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\bin\Debug\Лаб9МСШІ.exe
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\bin\Debug\Лаб9МСШІ.pdb
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\obj\Debug\Лаб9МСШІ.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\obj\Debug\Лаб9МСШІ.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\obj\Debug\Лаб9МСШІ.Form1.resources
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\obj\Debug\Лаб9МСШІ.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\obj\Debug\Лаб9МСШІ.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\obj\Debug\Лаб9МСШІ.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\obj\Debug\Лаб9МСШІ.exe
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\3 курс\МСШІ\Лаб9МСШІ\Лаб9МСШІ\obj\Debug\Лаб9МСШІ.pdb
